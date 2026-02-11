@@ -7,3 +7,6 @@ wassup?S
 
 new content
 here
+
+what is happening
+how to put a file on staged
